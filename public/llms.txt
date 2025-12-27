@@ -1,0 +1,63 @@
+# טיולי ג'יפים קסם הטבע — Generative Engine Optimization Map
+
+> טיולי ג'יפים קסם הטבע, חברה להסעת נוסעים בשכר, 19 שנות ניסיון בהובלת מטיילים מרוצים בהובלת רוני הילמן, איש אדמה שחיי את הטבע. אני רוני הילמן (44) נשוי באושר לאביה הילמן (43) ואב ל 4 בנים מקסימים: מאור, ספיר, שהם ואשל. אני חיי ונושם את הצורך לגרום לאנשים להתחבר לטבע כמו שאני חווה אותו.
+
+---
+
+## Pages
+
+### דף הבית
+https://-6dbb9d0f.zappy5.app
+גלה טיולי ג'iפים קסם הטבע ברמת הגולן עם 19 שנות ניסיון. חווית טבע אותנטית למשפחות נופשות עם רוני הילמן.
+
+### הטיולים שלנו
+https://-6dbb9d0f.zappy5.app/services
+גלה את מגוון טיולי ג'iפים קסם הטבע ברמת הגולן - מסלול אתגרי, רגוע, טיול זרימות והסעות נוסעים. חוויות טבע למשפחות.
+
+### אודות
+https://-6dbb9d0f.zappy5.app/about
+הכירו את רוני הילמן ומשפחתו - 19 שנות ניסיון בהובלת טיולי ג'iפים קסם הטבע ברמת הגולן. איש אדמה אמיתי שחי את הטבע.
+
+### צור קשר
+https://-6dbb9d0f.zappy5.app/contact
+צור קשר עם טיולי ג'iפים קסם הטבע - הזמן טיול ג'iפים ברמת הגולן עכשיו. טופס יצירת קשר, טלפון ופרטי התקשרות.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-6dbb9d0f.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-6dbb9d0f.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-6dbb9d0f.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About טיולי ג'יפים קסם הטבע
+טיולי ג'יפים קסם הטבע, חברה להסעת נוסעים בשכר, 19 שנות ניסיון בהובלת מטיילים מרוצים בהובלת רוני הילמן, איש אדמה שחיי את הטבע. אני רוני הילמן (44) נשוי באושר לאביה הילמן (43) ואב ל 4 בנים מקסימים: מאור, ספיר, שהם ואשל. אני חיי ונושם את הצורך לגרום לאנשים להתחבר לטבע כמו שאני חווה אותו.
+
+## Services/Products
+- טיולי ג'יפים ברמת הגולן
+- מסלול אתגרי
+- מסלול רגוע
+- טיול זרימות
+- הסעת נוסעים בשכר
+
+## Target Audience
+
+## Industry
+חינוך סביבתי ופעילויות טבע
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-6dbb9d0f.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-6dbb9d0f.zappy5.app/robots.txt
